@@ -2159,7 +2159,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li a:hover > a {
-  color: #8490ff;
+  color: #dd9819;
 }
 
 .nav-menu > li {
@@ -2281,7 +2281,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #8490ff;
+  color:  #dd9819;
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -2289,7 +2289,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #8490ff;
+  color:  #dd9819;
 }
 
 #mobile-body-overly {
@@ -2342,7 +2342,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background: #8490ff;
+  background:  #dd9819;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 30px;
@@ -2395,11 +2395,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .primary-btn.white:hover {
   background: #fff;
-  color: #8490ff;
+  color:  #dd9819;
 }
 
 .primary-btn.white:hover span {
-  color: #8490ff;
+  color:  #dd9819;
 }
 
 .primary-btn.wh {
@@ -2446,7 +2446,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: #f9f9ff;
+  background: #38a4ff;
+  /*background: url('../img/banner.png');*/
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 .banner-area .fullscreen {
@@ -2566,7 +2570,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-services:hover h4 {
-  color: #8490ff;
+  color:  #dd9819;
 }
 
 /*--------- End Services Area -------------*/

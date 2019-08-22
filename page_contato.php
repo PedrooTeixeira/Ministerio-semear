@@ -71,7 +71,7 @@
 									</div>
 									<div class="col-lg-12">
 										<div class="alert-msg" style="text-align: left;"></div>
-										<button class="genric-btn primary" style="float: right;">Enviar</button>											
+										<button class="genric-btn primary" style="float: right; background: #dd9819;">Enviar</button>											
 									</div>
 								</div>
 							</form>	

@@ -45,9 +45,9 @@
 			            <ul>
 						  <li><a href="page_historia.php">Nossa História</a></li>
 						  <li><a href="">Presidentes</a></li>
-						  <li><a href="">Pastores</a></li>
+						  <li><a href="page_pastores.php">Pastores auxiliares</a></li>
 						  <li><a href="">Como contribuir</a></li>
-						  <li><a href="">Pedido de oração</a></li>
+						  <li><a href="page_pedido_de_oracao.php">Pedido de oração</a></li>
 			            </ul>
 					  </li>
 					  <li class="menu-has-children"><a href="">Departamentos</a>
@@ -68,10 +68,10 @@
 					  <li class="menu-has-children"><a href="">Mídia</a>
 			            <ul>
 								<li><a href="page_fotos.php">Fotos</a></li>
-			              <li><a href="blog-single.html">Vídeos</a></li>
+			              <li><a href="#">Vídeos</a></li>
 			            </ul>
 			          </li>	
-			          <li><a href="#">Eventos</a></li>				          					          		          
+			          <li><a href="page_eventos.php">Eventos</a></li>				          					          		          
 			          <li><a href="page_contato.php">Contato</a></li>
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
