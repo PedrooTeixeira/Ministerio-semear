@@ -41,7 +41,7 @@
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
 					  <li><a href="index.php">Home</a></li>
-					  <li class="menu-has-children"><a href="">igreja</a>
+					  <li class="menu-has-children"><a>igreja</a>
 			            <ul>
 						  <li><a href="page_historia.php">Nossa História</a></li>
 						  <li><a href="">Presidentes</a></li>
@@ -50,7 +50,7 @@
 						  <li><a href="page_pedido_de_oracao.php">Pedido de oração</a></li>
 			            </ul>
 					  </li>
-					  <li class="menu-has-children"><a href="">Departamentos</a>
+					  <li class="menu-has-children"><a>Departamentos</a>
 			            <ul>
 						  <li><a href="dep_casais.php">Ministério para Casais</a></li>
 						  <li><a href="">Ministério para Homens</a></li>
@@ -65,7 +65,7 @@
 						  <li><a href="">Comissão Audio Visual e Marketing</a></li>
 			            </ul>
 			          </li>
-					  <li class="menu-has-children"><a href="">Mídia</a>
+					  <li class="menu-has-children"><a>Mídia</a>
 			            <ul>
 								<li><a href="page_fotos.php">Fotos</a></li>
 			              <li><a href="#">Vídeos</a></li>

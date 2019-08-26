@@ -20,20 +20,20 @@
                             <form class="text-center border border-light p-5" action="#!">
 
                             <!-- Name -->
-                            <input type="text"  class="form-control mb-4" placeholder="Nome">
+                            <input type="text" name="nome" class="form-control mb-4" placeholder="Nome">
 
                             <!-- Email -->
-                            <input type="email" " class="form-control mb-4" placeholder="E-mail">
+                            <input type="email" name="email" class="form-control mb-4" placeholder="E-mail">
 
                             <!-- Fone -->
-                            <input type="text"  class="form-control mb-4" placeholder="Telefone">
+                            <input type="text" name="telefone" class="form-control mb-4" placeholder="Telefone">
 
                             <!-- Assunto -->
-                            <input type="email"  class="form-control mb-4" placeholder="Causa">
+                            <input type="text" name="causa"  class="form-control mb-4" placeholder="Causa">
 
                             <!-- Message -->
                             <div class="form-group">
-                                <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Mensagem"></textarea>
+                                <textarea class="form-control rounded-0" name="mensagem" rows="3" placeholder="Mensagem"></textarea>
                             </div>
 
                             <!-- Send button -->

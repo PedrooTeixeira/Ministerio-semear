@@ -2453,6 +2453,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
+/*VIDEO BANNER*/
+.carousel .video-fluid{
+  margin-top: 80px;  
+  width: 100%;
+    
+    
+}
+  
+
 .banner-area .fullscreen {
   height: 750px !important;
 }

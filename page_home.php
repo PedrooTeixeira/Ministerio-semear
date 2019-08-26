@@ -1,32 +1,71 @@
 
 			<!-- start banner Area -->
-			<section class="banner-area">
+			<!--<section class="banner-area">
 				<div class="container">
 					<div class="row fullscreen align-items-center justify-content-between">
 						<div class="col-lg-6 col-md-6 banner-left">
-							<!--<h6>This is me</h6>
-							<h1>Philip Gilbert</h1>-->
+							<h6>This is me</h6>
+							<h1 style="color:white;">Semear</h1>
 							<p style="color: white;">
-                                pensandoo sobre qual mensagem colocar aqui nesse espaço em cima desse botao que leva para pagina
+								pensandoo sobre qual mensagem colocar aqui nesse espaço em cima desse botao que leva para pagina que leva para oração
 							</p>
 							<a href="page_pedido_de_oracao.php" class="primary-btn text-uppercase" style="background: orange;">Pedir oração</a>
 						</div>
 						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
-							<!---<img class="img-fluid" src="img/hero-img.png" alt="">-->
+							-<img class="img-fluid" src="img/hero-img.png" alt="">
 						</div>
 					</div>
 				</div>					
 			</section>
-			<!-- End banner Area -->
+			End banner Area -->
+		
+
+
+			<!--Carousel Wrapper-->
+<div id="video-carousel-example" class="carousel" data-ride="carousel">
+  <!--Indicators-->
+  <ol class="carousel-indicators">
+    <li data-target="#video-carousel-example" data-slide-to="0" class="active"></li>
+    <li data-target="#video-carousel-example" data-slide-to="1"></li>
+    <li data-target="#video-carousel-example" data-slide-to="2"></li>
+  </ol>
+  <!--/.Indicators-->
+  <!--Slides-->
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+      <video class="video-fluid" autoplay loop muted>
+        <source src="https://mdbootstrap.com/img/video/Tropical.mp4" type="video/mp4" style="heigth:100px;"/>
+      </video>
+    </div>
+    <div class="carousel-item">
+      <video class="video-fluid" autoplay loop muted>
+        <source src="https://mdbootstrap.com/img/video/forest.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <div class="carousel-item">
+      <video class="video-fluid" autoplay loop muted>
+        <source src="https://mdbootstrap.com/img/video/Agua-natural.mp4" type="video/mp4" />
+      </video>
+    </div>
+  </div>
+  <!--/.Slides-->
+  <!--Controls-->
+  <a class="carousel-control-prev" href="#video-carousel-example" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#video-carousel-example" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  <!--/.Controls-->
+</div>
+<!--Carousel Wrapper-->
 
 <!-- Start timeline Area -->
 <section class="timeline pb-120">
             <div class="text-center">
                 <div class="menu-content pb-70">
-                    <div class="title text-center"><br><br><br>
-                        <h1 class="mb-10">Ministério Semear</h1>
-                        <p>Cumprindo assim, a ordenação do nosso Senhor Jesus Cristo, em Mt 28:19.</p>
-                    </div>
                 </div>
             </div>				
 			  <ul>
